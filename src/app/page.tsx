@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+import Link from "next/link";
+
 const Homepage = () => {
   return (
     <div className="flex flex-col items-center justify-center gap-4">
@@ -26,5 +28,7 @@ const Homepage = () => {
     </div>
   );
 };
+
+export default Homepage;
 
 export default Homepage;
